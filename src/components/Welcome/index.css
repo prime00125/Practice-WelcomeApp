@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  position: absolute;
+  left: 50%;
+}
+.btn {
+  width: 200px;
+  height: 30px;
+  border-radius: 100px;
+  background-color: white;
+  text-align: center;
+}
+.header {
+  color: yellow;
+  font-size: 100px;
+}
+.p {
+  color: white;
+  font-size: larger;
+}
